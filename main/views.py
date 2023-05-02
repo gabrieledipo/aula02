@@ -8,3 +8,6 @@ def alunoView(request):
     return render(request,"main/alunos.html", {"alunos_list":alunos_list})
 
 # Create your views here.
+
+
+#testando upload de github
